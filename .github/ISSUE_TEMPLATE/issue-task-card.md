@@ -1,31 +1,17 @@
----
-name: Issue Task Card
-about: Issue Task Card
-title: "[Task] 이슈카드 제목 설정하기"
-labels: ''
-assignees: ''
+> 팀원 중 한 분이 작성해주세요.
+> Keep, Problem 항목에 대해서 매주 정기적인 날에 회고를 진행하여 기록하고, 그것을 기반으로 Try (Action Items)  이슈를 생성해주세요.
 
----
+## Keep (유지할 항목)
+- 
+- 
+-
 
-ISSUE
-Group: client, server, sr
-Type: bug, feature, delete
-Detail: fix actions from client redux
-TODO
- Job1
- Job2
- Job3
-Estimated time
-Pick one
+## Problem (문제라고 생각하는 항목)
+-
+-
+-
 
-0.5h
-1h
-1.5h
-2h
-2.5h
-3h
-Labels
-Estimated time: E: 1h
-Group : client, server
-Sprint: Sprint__NUMBER__
-Urgency: High, Middle, Low
+## Try (Action Items)
+- [ ] Todo 형식으로 작성해주세요.
+- [ ] Todo 형식으로 작성해주세요.
+- [ ] Todo 형식으로 작성해주세요.
