@@ -1,0 +1,52 @@
+.Board_List_app {
+  position: relative;
+  margin: 20px;
+  padding: 10px;
+  box-shadow: 1px 1px 1px 2px black;
+}
+
+.Board_List_text {
+  width: 10%;
+  border: 1px solid red;
+  margin: 10px;
+}
+
+.Board_List_h2 {
+  font-size: 25px;
+  border-bottom: 1px solid black;
+  font-weight: 800;
+}
+
+.Board_List_tags {
+  margin: 10px;
+  color: brown;
+  display: flex;
+}
+
+.Board_LIst_tag {
+  margin-left: 5px;
+}
+
+.Board_List_likePoint {
+  position: absolute;
+  right: 3%;
+  bottom: 10%;
+  display: flex;
+  width: 16%;
+  justify-content: space-between;
+  cursor: pointer;
+
+  align-items: center;
+}
+
+.Board_List_likePoint button {
+  border: none;
+  background-color: transparent;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.Board_List_likePoint button:hover {
+  transform: scale(1.05);
+  transition: 0.3s;
+}
